@@ -1,0 +1,11 @@
+O slide down permite que algo apareça "lentamente" com slide down.
+
+
+No CSS:
+
+O elemento tem que estar com display none
+
+No JS (JQUERY):
+
+IF acontecer algo:
+	$('elemento').slideDown(); -- Ou slideUp

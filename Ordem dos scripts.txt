@@ -1,0 +1,8 @@
+O arquivo JQUERY tem que ficar sempre ANTES do arquivo main.JS. 
+Isso porque o JS depende dos recursos do JQUERY, então o JQUERY tem que vir antes.
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="./main.js"></script>
+
+
+OBS: Esse link do JQUERY (primeiro) é obtido através do site >> download >> primeiro link >> copiar URL

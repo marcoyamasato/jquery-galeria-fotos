@@ -1,0 +1,10 @@
+$(document).ready(function(){
+})
+
+
+
+Para selecionar itens:
+
+Java: document.querySelector('item');
+
+JQuery: $('item')
